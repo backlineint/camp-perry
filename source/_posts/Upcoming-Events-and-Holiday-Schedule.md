@@ -7,7 +7,7 @@ tags:
 {% asset_img "decaprio.gif" "Fireworks!" %}
 Yearly viewing of the [Nathan's Hot Dog Eating Contest](https://nathansfamous.com/promos-and-fanfare/hot-dog-eating-contest/). 
 Menu: Hot Dogs. 
-Time: TBD.
+Time: 2 PM
 
 ## Post Hot Dog Eating Contest Sabbatical
 Camp Perry will be closed July 5 through July 9th.  We know it will be difficult, but please find a way to spend time with your family during this challenging time.
